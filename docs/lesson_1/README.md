@@ -8,10 +8,6 @@
     1. [Сервис аутентификации (Auth service)](#design_auth)
     1. [Сервис задач (Task tracker)](#design_task_tracker)
     1. [Сервис бухгалтерии и аналитики (Accounting and Analytics)](#design_accounting_and_analytics)
-1. [Проблемы и пути их решения](#troubles_transport)
-    1. [Недоступность базы данных](#troubles_database)
-    1. [Недоступность сети/очереди](#troubles_transport)
-    1. [Получение событий в порядке их возникновения](#troubles_ordering)
 
 ---
 ---
